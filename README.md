@@ -1,2 +1,2 @@
-# lizenantoine.gituhub.io
+# lizenantoine.github.io
 Mon site web personnel
